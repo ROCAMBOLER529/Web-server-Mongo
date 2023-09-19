@@ -1,0 +1,16 @@
+{
+    "credenciales": [
+        {
+            "nombre": "root",
+            "contrasena": "1234"
+        },
+        {
+            "nombre": "carlos",
+            "contrasena": "carlos"
+        },
+        {
+            "nombre": "juan",
+            "contrasena": "juan"
+        }
+    ]
+}
